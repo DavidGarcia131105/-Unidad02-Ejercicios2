@@ -11,7 +11,7 @@ public class Concatena {
 
     public static void main(String[] args) {
         String a = "hola";
-        String b = " adios";
+        String b = " adiós";
         String valor = "hola";
 
         valor = valor + " y adiós";
